@@ -3,12 +3,14 @@
 }
 
 section {
+    position: relative;
     float: left;
     width: 50%;
-    margin-left: 100px;
+    margin-left: 0px;
 }
 
 aside {
+    position: relative;
     float: right;
     margin-right: 50px;
 }

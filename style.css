@@ -1,0 +1,19 @@
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+section {
+    float: left;
+    width: 50%;
+    margin-left: 100px;
+}
+
+aside {
+    float: right;
+    margin-right: 50px;
+}
+
+img {
+    border: lightgrey solid 3px;
+    border-radius: 15px;
+}

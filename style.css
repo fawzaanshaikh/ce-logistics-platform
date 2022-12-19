@@ -19,3 +19,10 @@ img {
     border: lightgrey solid 3px;
     border-radius: 15px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    height: 300px;
+    margin-top: 150px;
+}
